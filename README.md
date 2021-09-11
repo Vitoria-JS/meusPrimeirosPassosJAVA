@@ -1,0 +1,2 @@
+# meusPrimeirosPassosJava
+Neste repositório você poderá encontrar os primeiros códigos desenvolvidos por mim na linguagem de alto nível JAVA  Aqui estão todos os arquivos com a extensão .java, para compilar é necessário que você tenha o JRE . Irei me esforçar para atualizar o github semanalmente com meus novos códigos.  Em caso de dúvidas ou queira trocar figurinhas entre em contato comigo. Meu contato e-mail: vitoriarocha1818@gmail.com número de telefone: +55 11 952848516
